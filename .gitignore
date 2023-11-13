@@ -1,11 +1,3 @@
 # Ignore all files
-*
-# Except for .c and .cpp files
-!*.c
-!*.cpp
-!.txt
-!.md
-
-# Folder
-!HackerRank/
-!CodeForces/
+*.c
+*.o
